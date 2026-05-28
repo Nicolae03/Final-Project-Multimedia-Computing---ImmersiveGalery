@@ -1,10 +1,8 @@
-# Build output
-bin/
+# Build intermediates
 obj/
-*.exe
-*.dll
-*.obj
-*.pdb
+bin/obj/
+bin/*.pdb
+
 # Visual Studio
 .vs/
 *.user

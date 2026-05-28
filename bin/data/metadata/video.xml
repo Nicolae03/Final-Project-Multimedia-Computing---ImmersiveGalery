@@ -1,0 +1,12 @@
+<metadata>
+    <name>video</name>
+    <path>video.mp4</path>
+    <isVideo>1</isVideo>
+    <meanLuminance>0.000000000</meanLuminance>
+    <luminanceVariance>0.000000000</luminanceVariance>
+    <edgeDensity>0.000000000</edgeDensity>
+    <numKeypoints>0</numKeypoints>
+    <texture>0.000000000</texture>
+    <motionEnergy>0.000000000</motionEnergy>
+    <videoRhythm>0.000000000</videoRhythm>
+</metadata>
