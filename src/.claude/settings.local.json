@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import PIL; print\\('PIL ok'\\)\")",
+      "Bash(python -c \"import tkinter; print\\('tkinter ok'\\)\")",
+      "Bash(pip install *)",
+      "Bash(where pdftoppm *)",
+      "Bash(python -c \"import fitz; print\\('pymupdf ok'\\)\")",
+      "Bash(pip show *)",
+      "Bash(python -c \"import fitz; print\\('ok'\\)\")",
+      "Bash(python -c ' *)"
+    ]
+  }
+}
